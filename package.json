@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dygus4/firstServer/issues"
   },
-  "homepage": "https://github.com/dygus4/firstServer#readme"
+  "homepage": "https://github.com/dygus4/firstServer#readme",
+  "dependencies": {
+    "express-handlebars": "^3.1.0"
+  }
 }
