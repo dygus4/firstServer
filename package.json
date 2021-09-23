@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dygus4/firstServer#readme",
   "dependencies": {
-    "express-handlebars": "^3.1.0"
+    "express-handlebars": "^3.1.0",
+    "multer": "^1.4.3"
   }
 }
